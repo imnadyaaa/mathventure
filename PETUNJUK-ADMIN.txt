@@ -1,0 +1,4 @@
+3 EDIT KECIL DI FILE YANG SUDAH ADA (lihat petunjuk di chat), lalu:
+  php artisan migrate
+  php artisan optimize:clear
+  php artisan admin:set USERNAMEKAMU
